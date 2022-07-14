@@ -1,32 +1,27 @@
 [
   {
     "id": 1,
-    "text": "Push up",
+    "text": "Pen",
     "done": true,
     "count": 2
   },
   {
     "id": 2,
-    "text": "Pull Up",
+    "text": "Pencil",
     "done": true,
     "count": 3
   },
   {
     "id": 3,
-    "text": "Squats",
+    "text": "Book",
     "done": false,
     "count": 1
   },
   {
     "id": 4,
-    "text": "Sprint",
+    "text": "Sugar",
     "done": false,
     "count": 5
   },
-  {
-    "id": 5,
-    "text": "Stairs",
-    "done": false,
-    "count": 200
-  }
+ 
 ]

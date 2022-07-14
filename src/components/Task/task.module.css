@@ -1,3 +1,15 @@
 .task {
   /* Sample  */
+  border-bottom: 2px solid grey;
+  padding: 10px 0px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.task:hover > .hover {
+  display: block;
+}
+
+.hover {
+  display: none;
 }
